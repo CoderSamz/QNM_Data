@@ -1,6 +1,1054 @@
 {
     "data": [
         {
+            "quetion": "阿里山姑娘",
+            "answer": "始"
+        },
+        {
+            "quetion": "病中有人伺",
+            "answer": "两"
+        },
+        {
+            "quetion": "尺度有点太大了",
+            "answer": "尽"
+        },
+        {
+            "quetion": "昂起头树雄心",
+            "answer": "仰"
+        },
+        {
+            "quetion": "不要夸大",
+            "answer": "亏"
+        },
+        {
+            "quetion": "出工要出力",
+            "answer": "功"
+        },
+        {
+            "quetion": "布告下达",
+            "answer": "吊"
+        },
+        {
+            "quetion": "初见端倪",
+            "answer": "位"
+        },
+        {
+            "quetion": "步其后尘",
+            "answer": "基"
+        },
+        {
+            "quetion": "处处闻啼鸟",
+            "answer": "鸮(xiao)"
+        },
+        {
+            "quetion": "巴蜀乡音",
+            "answer": "训"
+        },
+        {
+            "quetion": "变压",
+            "answer": "庄"
+        },
+        {
+            "quetion": "传旨会稽山",
+            "answer": "嵇"
+        },
+        {
+            "quetion": "巴西三十天",
+            "answer": "肥"
+        },
+        {
+            "quetion": "窗前灯火香",
+            "answer": "宁"
+        },
+        {
+            "quetion": "半尺布",
+            "answer": "吊"
+        },
+        {
+            "quetion": "草径入荒园",
+            "answer": "曲"
+        },
+        {
+            "quetion": "春季之前",
+            "answer": "秦"
+        },
+        {
+            "quetion": "半价出售",
+            "answer": "催"
+        },
+        {
+            "quetion": "持刀斗牛",
+            "answer": "解"
+        },
+        {
+            "quetion": "此人可靠",
+            "answer": "何"
+        },
+        {
+            "quetion": "半坡遗址",
+            "answer": "止"
+        },
+        {
+            "quetion": "春夜喜雨",
+            "answer": "泰"
+        },
+        {
+            "quetion": "重写战书",
+            "answer": "哉"
+        },
+        {
+            "quetion": "半青半紫",
+            "answer": "素"
+        },
+        {
+            "quetion": "从一到十",
+            "answer": "坐"
+        },
+        {
+            "quetion": "半掩深闺时已暮",
+            "answer": "持"
+        },
+        {
+            "quetion": "残寺破庙曾有僧",
+            "answer": "府"
+        },
+        {
+            "quetion": "大得出奇",
+            "answer": "可"
+        },
+        {
+            "quetion": "伴君如伴虎",
+            "answer": "琥"
+        },
+        {
+            "quetion": "残阳解冻",
+            "answer": "陈"
+        },
+        {
+            "quetion": "独生女",
+            "answer": "婵"
+        },
+        {
+            "quetion": "宝玉出走袭人无依",
+            "answer": "宠"
+        },
+        {
+            "quetion": "残月孤星伴远山",
+            "answer": "弦"
+        },
+        {
+            "quetion": "夺冠军",
+            "answer": "车"
+        },
+        {
+            "quetion": "宝玉出走有由来",
+            "answer": "宙"
+        },
+        {
+            "quetion": "单弓只箭",
+            "answer": "引"
+        },
+        {
+            "quetion": "鼻上画双眉",
+            "answer": "公"
+        },
+        {
+            "quetion": "差点夺下冠军",
+            "answer": "守"
+        },
+        {
+            "quetion": "诞辰",
+            "answer": "星"
+        },
+        {
+            "quetion": "并非一人",
+            "answer": "佳"
+        },
+        {
+            "quetion": "等线柴达木",
+            "answer": "此"
+        },
+        {
+            "quetion": "到上海度元宵",
+            "answer": "审"
+        },
+        {
+            "quetion": "不知其中有源头",
+            "answer": "洪"
+        },
+        {
+            "quetion": "吃苦在前",
+            "answer": "若"
+        },
+        {
+            "quetion": "冬至之后昼亦短",
+            "answer": "尽"
+        },
+        {
+            "quetion": "给力相助",
+            "answer": "且"
+        },
+        {
+            "quetion": "等线湖畔初晴",
+            "answer": "明"
+        },
+        {
+            "quetion": "警告",
+            "answer": "诫"
+        },
+        {
+            "quetion": "动一动吧",
+            "answer": "邑"
+        },
+        {
+            "quetion": "古币",
+            "answer": "错"
+        },
+        {
+            "quetion": "皇上掌勺",
+            "answer": "的"
+        },
+        {
+            "quetion": "君自东洋归",
+            "answer": "群"
+        },
+        {
+            "quetion": "多多配合",
+            "answer": "罗"
+        },
+        {
+            "quetion": "关心旁人",
+            "answer": "仁"
+        },
+        {
+            "quetion": "火山活动",
+            "answer": "灵"
+        },
+        {
+            "quetion": "闺中形影单",
+            "answer": "佳"
+        },
+        {
+            "quetion": "火腿",
+            "answer": "人"
+        },
+        {
+            "quetion": "镜中人",
+            "answer": "入"
+        },
+        {
+            "quetion": "果断有力",
+            "answer": "男"
+        },
+        {
+            "quetion": "鸡冠蛇",
+            "answer": "岂"
+        },
+        {
+            "quetion": "久雷不雨",
+            "answer": "田"
+        },
+        {
+            "quetion": "二斤水",
+            "answer": "满"
+        },
+        {
+            "quetion": "个个去前线",
+            "answer": "笺"
+        },
+        {
+            "quetion": "加一正好",
+            "answer": "止"
+        },
+        {
+            "quetion": "居里夫人",
+            "answer": "姑"
+        },
+        {
+            "quetion": "儿童不宜",
+            "answer": "倚"
+        },
+        {
+            "quetion": "公正无私心无愧",
+            "answer": "槐"
+        },
+        {
+            "quetion": "家祭不供牲",
+            "answer": "察"
+        },
+        {
+            "quetion": "耳听八方",
+            "answer": "职"
+        },
+        {
+            "quetion": "宫锁心玉",
+            "answer": "国"
+        },
+        {
+            "quetion": "减肥茶",
+            "answer": "杷"
+        },
+        {
+            "quetion": "举手之劳",
+            "answer": "捞"
+        },
+        {
+            "quetion": "共有一小点",
+            "answer": "恭"
+        },
+        {
+            "quetion": "江水流尽",
+            "answer": "工"
+        },
+        {
+            "quetion": "国内",
+            "answer": "玉"
+        },
+        {
+            "quetion": "解闷散心",
+            "answer": "门"
+        },
+        {
+            "quetion": "开业一月",
+            "answer": "背"
+        },
+        {
+            "quetion": "负重上台",
+            "answer": "云"
+        },
+        {
+            "quetion": "金乌西未坠玉兔似东升",
+            "answer": "晚"
+        },
+        {
+            "quetion": "看门狗",
+            "answer": "戾"
+        },
+        {
+            "quetion": "复习要先易后难",
+            "answer": "曜"
+        },
+        {
+            "quetion": "湖中见底",
+            "answer": "客"
+        },
+        {
+            "quetion": "飞蛾扑火",
+            "answer": "烛"
+        },
+        {
+            "quetion": "谎言勿讲",
+            "answer": "荒"
+        },
+        {
+            "quetion": "空有女娲补亦残",
+            "answer": "祸"
+        },
+        {
+            "quetion": "风中织网",
+            "answer": "冈"
+        },
+        {
+            "quetion": "早天雷",
+            "answer": "田"
+        },
+        {
+            "quetion": "劫后又相逢",
+            "answer": "劝"
+        },
+        {
+            "quetion": "封山有林",
+            "answer": "困"
+        },
+        {
+            "quetion": "好端端",
+            "answer": "妾"
+        },
+        {
+            "quetion": "今岁除夕",
+            "answer": "山"
+        },
+        {
+            "quetion": "复习",
+            "answer": "羽"
+        },
+        {
+            "quetion": "横加干涉",
+            "answer": "王"
+        },
+        {
+            "quetion": "进门就闹",
+            "answer": "市"
+        },
+        {
+            "quetion": "孔子登山",
+            "answer": "岳"
+        },
+        {
+            "quetion": "开创未来",
+            "answer": "并"
+        },
+        {
+            "quetion": "烤鱼尾",
+            "answer": "灭"
+        },
+        {
+            "quetion": "离船去分盆",
+            "answer": "盘"
+        },
+        {
+            "quetion": "拿人的手短",
+            "answer": "任"
+        },
+        {
+            "quetion": "凭栏人",
+            "answer": "大"
+        },
+        {
+            "quetion": "空空的街中",
+            "answer": "行"
+        },
+        {
+            "quetion": "两个一角",
+            "answer": "笔"
+        },
+        {
+            "quetion": "内外一致",
+            "answer": "丙"
+        },
+        {
+            "quetion": "泼水节",
+            "answer": "发"
+        },
+        {
+            "quetion": "空中飞人",
+            "answer": "会"
+        },
+        {
+            "quetion": "留下西江月",
+            "answer": "渭"
+        },
+        {
+            "quetion": "泥菩萨过江",
+            "answer": "城"
+        },
+        {
+            "quetion": "孔子游下蔡",
+            "answer": "礼"
+        },
+        {
+            "quetion": "留下一只羊头",
+            "answer": "兽"
+        },
+        {
+            "quetion": "你一半我一半",
+            "answer": "伐"
+        },
+        {
+            "quetion": "清白做人",
+            "answer": "伯"
+        },
+        {
+            "quetion": "口衔枚",
+            "answer": "敕"
+        },
+        {
+            "quetion": "六居士上京游",
+            "answer": "璧"
+        },
+        {
+            "quetion": "牛头马面",
+            "answer": "魉"
+        },
+        {
+            "quetion": "清热祛火",
+            "answer": "执"
+        },
+        {
+            "quetion": "扣门无犬吠",
+            "answer": "问"
+        },
+        {
+            "quetion": "罗锅",
+            "answer": "躬"
+        },
+        {
+            "quetion": "女儿出嫁",
+            "answer": "家"
+        },
+        {
+            "quetion": "七人",
+            "answer": "化"
+        },
+        {
+            "quetion": "枯泉",
+            "answer": "白"
+        },
+        {
+            "quetion": "落汤鸡",
+            "answer": "酒"
+        },
+        {
+            "quetion": "女儿属狗",
+            "answer": "威"
+        },
+        {
+            "quetion": "七日谈",
+            "answer": "调"
+        },
+        {
+            "quetion": "快刀斩乱麻",
+            "answer": "纷"
+        },
+        {
+            "quetion": "女高音",
+            "answer": "妾"
+        },
+        {
+            "quetion": "奇才杜子美",
+            "answer": "捕"
+        },
+        {
+            "quetion": "幕后推手跑了",
+            "answer": "帷"
+        },
+        {
+            "quetion": "前朝隐晦言",
+            "answer": "韩"
+        },
+        {
+            "quetion": "辣味尚存",
+            "answer": "辞"
+        },
+        {
+            "quetion": "觅得新月来",
+            "answer": "我"
+        },
+        {
+            "quetion": "欧洲小姐",
+            "answer": "要"
+        },
+        {
+            "quetion": "前揽雀尾",
+            "answer": "推"
+        },
+        {
+            "quetion": "乐在其中",
+            "answer": "意"
+        },
+        {
+            "quetion": "明日少云",
+            "answer": "育"
+        },
+        {
+            "quetion": "敲竹杠",
+            "answer": "从"
+        },
+        {
+            "quetion": "立二拆三",
+            "answer": "非"
+        },
+        {
+            "quetion": "盼郎归",
+            "answer": "规"
+        },
+        {
+            "quetion": "留下一点",
+            "answer": "亩"
+        },
+        {
+            "quetion": "片假名平假名",
+            "answer": "旻"
+        },
+        {
+            "quetion": "清水浜",
+            "answer": "兵"
+        },
+        {
+            "quetion": "秋水伊人",
+            "answer": "委"
+        },
+        {
+            "quetion": "日月行空",
+            "answer": "箜( zhao )"
+        },
+        {
+            "quetion": "十角",
+            "answer": "车"
+        },
+        {
+            "quetion": "叹伊人又离去",
+            "answer": "君"
+        },
+        {
+            "quetion": "区别错与非",
+            "answer": "匪"
+        },
+        {
+            "quetion": "入市不安静",
+            "answer": "门"
+        },
+        {
+            "quetion": "十则围之",
+            "answer": "田"
+        },
+        {
+            "quetion": "天下",
+            "answer": "大"
+        },
+        {
+            "quetion": "曲终人散",
+            "answer": "典"
+        },
+        {
+            "quetion": "甩掉尾巴",
+            "answer": "用"
+        },
+        {
+            "quetion": "听其音则知其商",
+            "answer": "殷"
+        },
+        {
+            "quetion": "杀猪刀",
+            "answer": "刻"
+        },
+        {
+            "quetion": "双管齐下",
+            "answer": "文"
+        },
+        {
+            "quetion": "同到江边",
+            "answer": "洞"
+        },
+        {
+            "quetion": "人才出众",
+            "answer": "从"
+        },
+        {
+            "quetion": "售出草药",
+            "answer": "约"
+        },
+        {
+            "quetion": "丝",
+            "answer": "给"
+        },
+        {
+            "quetion": "头颈左转",
+            "answer": "轻"
+        },
+        {
+            "quetion": "人沐于水",
+            "answer": "漆"
+        },
+        {
+            "quetion": "蜀水横流",
+            "answer": "州"
+        },
+        {
+            "quetion": "四点到了北京",
+            "answer": "烹"
+        },
+        {
+            "quetion": "头球射门",
+            "answer": "闰"
+        },
+        {
+            "quetion": "人在寸土在",
+            "answer": "侍"
+        },
+        {
+            "quetion": "四边净",
+            "answer": "儿"
+        },
+        {
+            "quetion": "四化",
+            "answer": "兄"
+        },
+        {
+            "quetion": "脱衣服去上床",
+            "answer": "棠"
+        },
+        {
+            "quetion": "人到七十",
+            "answer": "华"
+        },
+        {
+            "quetion": "上海公报",
+            "answer": "神"
+        },
+        {
+            "quetion": "驷马难追",
+            "answer": "四"
+        },
+        {
+            "quetion": "人而无仪",
+            "answer": "义"
+        },
+        {
+            "quetion": "烧羊尾一盘",
+            "answer": "盖"
+        },
+        {
+            "quetion": "送二儿出关",
+            "answer": "远"
+        },
+        {
+            "quetion": "歪打正着",
+            "answer": "不"
+        },
+        {
+            "quetion": "人间变了",
+            "answer": "及"
+        },
+        {
+            "quetion": "舌头",
+            "answer": "干"
+        },
+        {
+            "quetion": "无人落座",
+            "answer": "庄"
+        },
+        {
+            "quetion": "人口倍增",
+            "answer": "徊"
+        },
+        {
+            "quetion": "蛇行",
+            "answer": "起"
+        },
+        {
+            "quetion": "添新债",
+            "answer": "欢"
+        },
+        {
+            "quetion": "五口通商",
+            "answer": "语"
+        },
+        {
+            "quetion": "人人出力",
+            "answer": "伤"
+        },
+        {
+            "quetion": "圣旨",
+            "answer": "玲"
+        },
+        {
+            "quetion": "拓荒",
+            "answer": "壁"
+        },
+        {
+            "quetion": "万家灯火",
+            "answer": "房"
+        },
+        {
+            "quetion": "乌江自刎",
+            "answer": "翠"
+        },
+        {
+            "quetion": "无人会",
+            "answer": "云"
+        },
+        {
+            "quetion": "心安自悠然",
+            "answer": "攸"
+        },
+        {
+            "quetion": "等线夜景",
+            "answer": "京"
+        },
+        {
+            "quetion": "一走就停",
+            "answer": " 正"
+        },
+        {
+            "quetion": "无用武之地",
+            "answer": "坟"
+        },
+        {
+            "quetion": "雪后寺半隐",
+            "answer": "寻"
+        },
+        {
+            "quetion": "一半放纵",
+            "answer": "兰"
+        },
+        {
+            "quetion": "一勾",
+            "answer": "丁"
+        },
+        {
+            "quetion": "武昌起义",
+            "answer": "朝"
+        },
+        {
+            "quetion": "小刀会",
+            "answer": "比"
+        },
+        {
+            "quetion": "一寸少点",
+            "answer": "于"
+        },
+        {
+            "quetion": "一口咬定",
+            "answer": "交"
+        },
+        {
+            "quetion": "小升初",
+            "answer": "少"
+        },
+        {
+            "quetion": "一旦昼逝现双星 ",
+            "answer": "尽"
+        },
+        {
+            "quetion": "一生对手 ",
+            "answer": "拜"
+        },
+        {
+            "quetion": "携手出中闺",
+            "answer": "扪"
+        },
+        {
+            "quetion": "一点错误 ",
+            "answer": "义"
+        },
+        {
+            "quetion": "一手擒龙",
+            "answer": "振"
+        },
+        {
+            "quetion": "行不得也哥哥",
+            "answer": "竞"
+        },
+        {
+            "quetion": "心怀祖国",
+            "answer": "忠"
+        },
+        {
+            "quetion": "一对枕头",
+            "answer": "树"
+        },
+        {
+            "quetion": "一套冬装",
+            "answer": " 图"
+        },
+        {
+            "quetion": "行者来陇西",
+            "answer": "都"
+        },
+        {
+            "quetion": "一发即中",
+            "answer": " 巾"
+        },
+        {
+            "quetion": "一心就业",
+            "answer": "恶"
+        },
+        {
+            "quetion": "西柏坡",
+            "answer": "杜"
+        },
+        {
+            "quetion": "寻根追底",
+            "answer": "过"
+        },
+        {
+            "quetion": "竿残照",
+            "answer": "旧"
+        },
+        {
+            "quetion": "一叶横卧",
+            "answer": " 吉"
+        },
+        {
+            "quetion": "下令查封",
+            "answer": "义"
+        },
+        {
+            "quetion": "一戈插入后心",
+            "answer": " 感"
+        },
+        {
+            "quetion": "补足",
+            "answer": "是"
+        },
+        {
+            "quetion": "先拿钱后收监",
+            "answer": "鉴"
+        },
+        {
+            "quetion": "鸭藏草下",
+            "answer": "艺"
+        },
+        {
+            "quetion": "一弓搭两箭",
+            "answer": "弗"
+        },
+        {
+            "quetion": "伊人不可见",
+            "answer": "尹"
+        },
+        {
+            "quetion": "相逢在雨后",
+            "answer": "霜"
+        },
+        {
+            "quetion": "颜良挚友",
+            "answer": "牧"
+        },
+        {
+            "quetion": "一条龙十分长",
+            "answer": "辱"
+        },
+        {
+            "quetion": "移山造田",
+            "answer": "画"
+        },
+        {
+            "quetion": "小二成首富",
+            "answer": "宗"
+        },
+        {
+            "quetion": "央视头花",
+            "answer": "英"
+        },
+        {
+            "quetion": "一干零二十二",
+            "answer": " 垂"
+        },
+        {
+            "quetion": "以为他也走了",
+            "answer": "似"
+        },
+        {
+            "quetion": "优先上岗",
+            "answer": "仙"
+        },
+        {
+            "quetion": "又到日落时",
+            "answer": "对"
+        },
+        {
+            "quetion": "真心合作",
+            "answer": "慎"
+        },
+        {
+            "quetion": "由北向南",
+            "answer": "甲"
+        },
+        {
+            "quetion": "幼小无力砍柴木",
+            "answer": "紫"
+        },
+        {
+            "quetion": "刈麦",
+            "answer": "利"
+        },
+        {
+            "quetion": "玉阶生白露",
+            "answer": "诛"
+        },
+        {
+            "quetion": "镇关西",
+            "answer": "真"
+        },
+        {
+            "quetion": "异乡芳草疏",
+            "answer": "纺"
+        },
+        {
+            "quetion": "玉连环",
+            "answer": "不"
+        },
+        {
+            "quetion": "只剪掉一半",
+            "answer": "招"
+        },
+        {
+            "quetion": "硬出头",
+            "answer": "岩"
+        },
+        {
+            "quetion": "玉兔似东升",
+            "answer": "晚"
+        },
+        {
+            "quetion": "知客僧",
+            "answer": "侍"
+        },
+        {
+            "quetion": "由北向南 ",
+            "answer": "甲"
+        },
+        {
+            "quetion": "约会后表白",
+            "answer": "的"
+        },
+        {
+            "quetion": "植树无劳力",
+            "answer": "荣"
+        },
+        {
+            "quetion": "有头没尾",
+            "answer": "友"
+        },
+        {
+            "quetion": "中国首富",
+            "answer": "宝"
+        },
+        {
+            "quetion": "Z",
+            "answer": "站在娘前"
+        },
+        {
+            "quetion": "竹木搭桥",
+            "answer": "策"
+        },
+        {
+            "quetion": "又逢国庆",
+            "answer": "圣"
+        },
+        {
+            "quetion": "在空中",
+            "answer": "八"
+        },
+        {
+            "quetion": "竹下一寸土",
+            "answer": "等"
+        },
+        {
+            "quetion": "月满西楼",
+            "answer": "楹"
+        },
+        {
+            "quetion": "丈夫",
+            "answer": "食"
+        },
+        {
+            "quetion": "资本支出",
+            "answer": "次"
+        },
+        {
+            "quetion": "岳父在上",
+            "answer": "兵"
+        },
+        {
+            "quetion": "昭君和番",
+            "answer": "瑚"
+        },
+        {
+            "quetion": "走错了",
+            "answer": "赵"
+        },
+        {
+            "quetion": "云遮白玉盘",
+            "answer": "育"
+        },
+        {
+            "quetion": "着眼于百姓",
+            "answer": "眠"
+        },
+        {
             "quetion": "千古结同心",
             "answer": "恬"
         },
@@ -133,16 +1181,8 @@
             "answer": "胖"
         },
         {
-            "quetion": "果断有力",
-            "answer": "男"
-        },
-        {
             "quetion": "五口之家，外种一树",
             "answer": "梧"
-        },
-        {
-            "quetion": "孔子登山",
-            "answer": "岳"
         },
         {
             "quetion": "五十对耳朵",
@@ -217,68 +1257,8 @@
             "answer": "画"
         },
         {
-            "quetion": "变压",
-            "answer": "庄"
-        },
-        {
-            "quetion": "尺度有点太大了",
-            "answer": "尽"
-        },
-        {
-            "quetion": "春季之前",
-            "answer": "秦"
-        },
-        {
-            "quetion": "无人会",
-            "answer": "云"
-        },
-        {
-            "quetion": "天下",
-            "answer": "大"
-        },
-        {
-            "quetion": "扣门无犬吠",
-            "answer": "问"
-        },
-        {
-            "quetion": "清水浜",
-            "answer": "兵"
-        },
-        {
-            "quetion": "负重上台",
-            "answer": "云"
-        },
-        {
             "quetion": "一一补足",
             "answer": "是"
-        },
-        {
-            "quetion": "布告下达",
-            "answer": "吊"
-        },
-        {
-            "quetion": "拓荒",
-            "answer": "壁"
-        },
-        {
-            "quetion": "送二儿出关",
-            "answer": "远"
-        },
-        {
-            "quetion": "心怀祖国",
-            "answer": "忠"
-        },
-        {
-            "quetion": "无用武之地",
-            "answer": "坟"
-        },
-        {
-            "quetion": "人口倍增",
-            "answer": "徊"
-        },
-        {
-            "quetion": "孔子登山",
-            "answer": "岳"
         },
         {
             "quetion": "一戈插入后心",
@@ -289,340 +1269,44 @@
             "answer": "宠"
         },
         {
-            "quetion": "圣旨",
-            "answer": "玲"
-        },
-        {
             "quetion": "一叶横卧",
             "answer": "吉"
-        },
-        {
-            "quetion": "着眼于百姓",
-            "answer": "眠"
         },
         {
             "quetion": "脱衣裳去上床",
             "answer": "棠"
         },
         {
-            "quetion": "异乡芳草疏",
-            "answer": "纺"
-        },
-        {
-            "quetion": "开业一月",
-            "answer": "背"
-        },
-        {
-            "quetion": "看门狗",
-            "answer": "戾"
-        },
-        {
-            "quetion": "动一动吧",
-            "answer": "邑"
-        },
-        {
-            "quetion": "雪后寺半隐",
-            "answer": "寻"
-        },
-        {
-            "quetion": "复习",
-            "answer": "羽"
-        },
-        {
-            "quetion": "硬出头",
-            "answer": "岩"
-        },
-        {
-            "quetion": "丈夫",
-            "answer": "食"
-        },
-        {
-            "quetion": "从一到十",
-            "answer": "坐"
-        },
-        {
-            "quetion": "离船去分盆",
-            "answer": "盘"
-        },
-        {
-            "quetion": "一心就业",
-            "answer": "恶"
-        },
-        {
-            "quetion": "进门就闹",
-            "answer": "市"
-        },
-        {
-            "quetion": "巴西三十天",
-            "answer": "肥"
-        },
-        {
-            "quetion": "人到七十",
-            "answer": "华"
-        },
-        {
             "quetion": "湖畔初晴",
             "answer": "明"
-        },
-        {
-            "quetion": "月满西楼",
-            "answer": "楹"
-        },
-        {
-            "quetion": "烧羊尾一盘",
-            "answer": "盖"
-        },
-        {
-            "quetion": "飞蛾扑火",
-            "answer": "烛"
-        },
-        {
-            "quetion": "驷马难追",
-            "answer": "四"
-        },
-        {
-            "quetion": "伊人不可见",
-            "answer": "尹"
-        },
-        {
-            "quetion": "诞辰",
-            "answer": "星"
-        },
-        {
-            "quetion": "留下一点",
-            "answer": "亩"
-        },
-        {
-            "quetion": "明日少云",
-            "answer": "育"
-        },
-        {
-            "quetion": "只剪掉一半",
-            "answer": "招"
-        },
-        {
-            "quetion": "入市不安静",
-            "answer": "门"
-        },
-        {
-            "quetion": "单弓只箭",
-            "answer": "引"
-        },
-        {
-            "quetion": "夺冠军",
-            "answer": "车"
-        },
-        {
-            "quetion": "昭君和番",
-            "answer": "瑚"
-        },
-        {
-            "quetion": "江水流尽",
-            "answer": "工"
-        },
-        {
-            "quetion": "伴君如伴虎",
-            "answer": "琥"
-        },
-        {
-            "quetion": "觅得新月来",
-            "answer": "我"
-        },
-        {
-            "quetion": "鸡冠蛇",
-            "answer": "岂"
-        },
-        {
-            "quetion": "今岁除夕",
-            "answer": "山"
-        },
-        {
-            "quetion": "小刀会",
-            "answer": "比"
-        },
-        {
-            "quetion": "人沐于水",
-            "answer": "漆"
-        },
-        {
-            "quetion": "小二成首富",
-            "answer": "宗"
-        },
-        {
-            "quetion": "出工要出力",
-            "answer": "功"
-        },
-        {
-            "quetion": "落汤鸡",
-            "answer": "酒"
-        },
-        {
-            "quetion": "丝",
-            "answer": "给"
-        },
-        {
-            "quetion": "前揽雀尾",
-            "answer": "推"
-        },
-        {
-            "quetion": "宫锁心玉",
-            "answer": "国"
-        },
-        {
-            "quetion": "久雷不雨",
-            "answer": "田"
         },
         {
             "quetion": "一竿残照",
             "answer": "旧"
         },
         {
-            "quetion": "真心合作",
-            "answer": "慎"
-        },
-        {
-            "quetion": "枯泉",
-            "answer": "白"
-        },
-        {
-            "quetion": "双管齐下",
-            "answer": "文"
-        },
-        {
-            "quetion": "半掩深闺时已暮",
-            "answer": "持"
-        },
-        {
             "quetion": "一寸少一点",
             "answer": "于"
-        },
-        {
-            "quetion": "女儿属狗",
-            "answer": "威"
-        },
-        {
-            "quetion": "四化",
-            "answer": "兄"
-        },
-        {
-            "quetion": "叹伊人又离去",
-            "answer": "君"
-        },
-        {
-            "quetion": "同到江边",
-            "answer": "洞"
-        },
-        {
-            "quetion": "半坡遗址",
-            "answer": "止"
-        },
-        {
-            "quetion": "人才出众",
-            "answer": "从"
-        },
-        {
-            "quetion": "罗锅",
-            "answer": "躬"
-        },
-        {
-            "quetion": "幼小无力砍柴木",
-            "answer": "紫"
-        },
-        {
-            "quetion": "清白做人",
-            "answer": "伯"
-        },
-        {
-            "quetion": "女高音",
-            "answer": "妾"
-        },
-        {
-            "quetion": "不知其中有源头",
-            "answer": "洪"
-        },
-        {
-            "quetion": "闺中形影单",
-            "answer": "佳"
-        },
-        {
-            "quetion": "减肥茶",
-            "answer": "杷"
         },
         {
             "quetion": "西邻聘东里",
             "answer": "聆"
         },
         {
-            "quetion": "泼水节",
-            "answer": "发"
-        },
-        {
-            "quetion": "解闷散心",
-            "answer": "门"
-        },
-        {
-            "quetion": "云遮白玉盘",
-            "answer": "育"
-        },
-        {
             "quetion": "处处闻啼鸟",
             "answer": "鸮"
-        },
-        {
-            "quetion": "吃苦在前",
-            "answer": "若"
         },
         {
             "quetion": "伏后分田",
             "answer": "器"
         },
         {
-            "quetion": "劫后又相逢",
-            "answer": "劝"
-        },
-        {
-            "quetion": "儿童不宜",
-            "answer": "倚"
-        },
-        {
-            "quetion": "牛头马面",
-            "answer": "魉"
-        },
-        {
-            "quetion": "复习要先易后难",
-            "answer": "曜"
-        },
-        {
-            "quetion": "大得出奇",
-            "answer": "可"
-        },
-        {
             "quetion": "一发即中",
             "answer": "巾"
         },
         {
-            "quetion": "又到日落时",
-            "answer": "对"
-        },
-        {
-            "quetion": "心安自悠然",
-            "answer": "攸"
-        },
-        {
-            "quetion": "阿里山姑娘",
-            "answer": "始"
-        },
-        {
             "quetion": "偏好不宜多",
             "answer": "妙"
-        },
-        {
-            "quetion": "关心旁人",
-            "answer": "仁"
-        },
-        {
-            "quetion": "家祭不供牲",
-            "answer": "察"
         },
         {
             "quetion": "二人顶破天",
@@ -633,24 +1317,12 @@
             "answer": "荣"
         },
         {
-            "quetion": "病中有人伺",
-            "answer": "两"
-        },
-        {
-            "quetion": "皇上掌勺",
-            "answer": "的"
-        },
-        {
             "quetion": "人人让座",
             "answer": "庄"
         },
         {
             "quetion": "一旦昼逝现双星",
             "answer": "尽"
-        },
-        {
-            "quetion": "中国首富",
-            "answer": "宝"
         },
         {
             "quetion": "发言心不慌",
@@ -661,8 +1333,24 @@
             "answer": "此"
         },
         {
-            "quetion": "玉阶生白露",
-            "answer": "诛"
+            "quetion": "一套冬装",
+            "answer": "图"
+        },
+        {
+            "quetion": "一点错误",
+            "answer": "义"
+        },
+        {
+            "quetion": "一入水中不见了",
+            "answer": "丞"
+        },
+        {
+            "quetion": "请先生来京",
+            "answer": "谅"
+        },
+        {
+            "quetion": "夜景",
+            "answer": "京"
         }
     ]
 }
